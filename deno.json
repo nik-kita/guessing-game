@@ -13,5 +13,8 @@
     "strictNullChecks": true,
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
-  }
+  },
+  "exclude": [
+    "guessing-game"
+  ]
 }
