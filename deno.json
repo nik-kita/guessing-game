@@ -1,5 +1,8 @@
 {
   "tasks": {
+    "gg": "cd guessing-game && npm run",
+    "gg:i": "cd guessing-game && npm i",
+    "api": "deno run -A api/main.ts"
   },
   "lint": {
     "rules": {
