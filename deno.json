@@ -1,0 +1,17 @@
+{
+  "tasks": {
+  },
+  "lint": {
+    "rules": {
+      "exclude": ["no-unused-vars"]
+    }
+  },
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "strictNullChecks": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  }
+}
